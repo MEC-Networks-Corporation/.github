@@ -50,7 +50,6 @@
     </li>
     <li><a href="#technical-focus">Technical Focus</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -155,25 +154,6 @@ Sensors, automation, building management integration, and connected infrastructu
 - [ ] Release SDK wrappers for supported product ecosystems  
 
 See the [organization issues](https://github.com/MEC-Networks-Corporation/issues) to track updates.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
----
-
-## Contributing
-
-MEC welcomes contributions from **authorized team members and collaborators**.
-
-To contribute:
-
-1. Fork the repository  
-2. Create a feature branch (`git checkout -b feature/NewTool`)  
-3. Commit your changes (`git commit -m "Added new internal tool"`)  
-4. Push to the branch (`git push origin feature/NewTool`)  
-5. Open a Pull Request  
-
-For external partners:  
-Please coordinate with your **MEC Technical Account Manager** before contributing.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
