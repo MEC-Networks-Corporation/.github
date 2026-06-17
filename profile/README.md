@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/MEC-Networks-Corporation">
-    <img src="https://storage.googleapis.com/stateless-mec-ph-storage/2019/01/MEC-Logo-Seal-1.png" alt="Logo" width="150" height="auto">
+    <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/98f83a7a-8d57-4ca6-8400-645ea64e1094" />
   </a>
 
   <h1 align="center">MEC Networks Corporation</h1>
